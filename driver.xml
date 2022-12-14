@@ -1,0 +1,18 @@
+<suite name="parallel-demo" parallel="classes" thread-count="3" >
+    <test name="Test-NG0">
+        <classes >
+            <class name="Demo">
+            </class>
+            <class name="Demo_edge">
+            </class>
+            <class name="Demo_firefox">
+            </class>
+
+
+
+        </classes>
+    </test>
+
+
+
+</suite>
