@@ -8,11 +8,10 @@
             <class name="Demo_firefox">
             </class>
 
-
-
         </classes>
     </test>
 
-
-
+<!--    mvn test -D suite=single.xml-->
+<!--    mvn -Dtest=demo test-->
+<!-- mvn -Dtest=Demo test-->
 </suite>

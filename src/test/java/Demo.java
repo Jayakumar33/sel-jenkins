@@ -61,7 +61,7 @@ public class Demo extends testReport{
         ltOptions.put("project", "untitled");
         ltOptions.put("w3c", true);
         ltOptions.put("plugin", "java-testNG");
-        ltOptions.put("tunnel", true);
+//        ltOptions.put("tunnel", true);
         caps.setCapability("LT:Options", ltOptions);
 
 
