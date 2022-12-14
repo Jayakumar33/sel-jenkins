@@ -60,7 +60,7 @@ public void capabilities(){
         ltOptions.put("build", "Demo");
         ltOptions.put("project", "untitled");
         ltOptions.put("w3c", true);
-        ltOptions.put("tunnel", true);
+//        ltOptions.put("tunnel", true);
         ltOptions.put("network",  true);
        ltOptions.put ("console",true );
        ltOptions.put ( "terminal",true );

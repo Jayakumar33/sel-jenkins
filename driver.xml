@@ -11,7 +11,7 @@
         </classes>
     </test>
 
-<!--    mvn test -D suite=single.xml-->
-<!--    mvn -Dtest=demo test-->
+
+// maven command for excuteing
 <!-- mvn -Dtest=Demo test-->
 </suite>
