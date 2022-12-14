@@ -41,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/jayak/Desktop/TestCase_Demo"
+    "last_opened_file_path": "C:/Users/jayak/Desktop/sel-jenkins"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -322,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670989123618</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="First commit">
+      <created>1671011817037</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671011817037</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
