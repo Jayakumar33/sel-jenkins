@@ -31,19 +31,19 @@ pipeline {
         stage('Demo for chrome') {
             steps {
                 echo 'chrome'
-                mvn -Dtest=Demo test
+               sh "mvn -Dtest=Demo test"
             }
         }
         stage('Demo for firefox') {
             steps {
                 echo ' firefox'
-                mvn -Dtest=Demo test
+             sh"mvn -Dtest=Demo test  "   
             }
         }
         stage('Demo for edge') {
             steps {
                 echo 'edge'
-                mvn -Dtest=Demo test
+               sh "mvn -Dtest=Demo test"
             }
         }
     }
