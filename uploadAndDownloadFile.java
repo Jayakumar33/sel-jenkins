@@ -36,8 +36,8 @@ public class uploadAndDownloadFile {
         ltOptions.put("browserName", "MicrosoftEdge");
         ltOptions.put("browserVersion", "105.0");
         ltOptions.put("platformName", "Windows 10");
-        ltOptions.put("username", "jayak");
-        ltOptions.put("accessKey", "0GsolydgtELi8kIDWXrlbqsOqEAha18GMAJYl0yHsZTprHqFLT");
+        ltOptions.put("username", "LT_USERNAME");
+        ltOptions.put("accessKey", "LT_ACCESSKEY");
         ltOptions.put("build", "Demo");
         ltOptions.put("project", "untitled");
         ltOptions.put("w3c", true);
