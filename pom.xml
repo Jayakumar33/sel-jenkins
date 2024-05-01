@@ -12,16 +12,15 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.11.0</version> <!-- Ensure this matches the version you're using -->
                 <configuration>
-                    <source>7</source>
-                    <target>7</target>
+                    <source>1.8</source> <!-- Set the source version to 1.8 -->
+                    <target>1.8</target> <!-- Set the target version to 1.8 -->
                 </configuration>
             </plugin>
         </plugins>
     </build>
          
-         
-
     <dependencies>
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
@@ -37,7 +36,6 @@
             <scope>test</scope>
         </dependency>
 
-
         <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
         <dependency>
             <groupId>com.aventstack</groupId>
@@ -45,6 +43,5 @@
             <version>5.0.9</version>
         </dependency>
     </dependencies>
-
-
 </project>
+
